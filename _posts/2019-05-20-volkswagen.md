@@ -77,5 +77,6 @@ Nieto de Ferdinand Porsche, Piëch comenzó su carrera en Porsche, para luego fi
 
 Con formación de ingeniero, Piëch influyó en el desarrollo de numerosos vehículos importantes, como el Audi Quattro, el Volkswagen New Beetle, el Audi R8, el Lamborghini Gallardo, el Volkswagen Phaeton y el Bugatti Veyron.
 
+
 Este post fue creado por: Marcos Tejido Rodríguez.
 Direccion de correo electronico: marcos.tejidorodriguez@iesmiguelherrero.com
