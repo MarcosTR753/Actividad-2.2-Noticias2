@@ -2,5 +2,4 @@
 
 source "https://rubygems.org"
 gemspec
-gem 'jekyll-theme-hamilton'ebrick', '~> 1.7'
-
+gem 'jekyll-theme-hamilton'
